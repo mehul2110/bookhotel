@@ -1,0 +1,11 @@
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\bin\Debug\netcoreapp2.1\BookHotel.deps.json
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\bin\Debug\netcoreapp2.1\BookHotel.runtimeconfig.json
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\bin\Debug\netcoreapp2.1\BookHotel.runtimeconfig.dev.json
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\bin\Debug\netcoreapp2.1\BookHotel.dll
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\bin\Debug\netcoreapp2.1\BookHotel.pdb
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\obj\Debug\netcoreapp2.1\BookHotel.csprojAssemblyReference.cache
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\obj\Debug\netcoreapp2.1\BookHotel.csproj.CoreCompileInputs.cache
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\obj\Debug\netcoreapp2.1\BookHotel.AssemblyInfoInputs.cache
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\obj\Debug\netcoreapp2.1\BookHotel.AssemblyInfo.cs
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\obj\Debug\netcoreapp2.1\BookHotel.dll
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\obj\Debug\netcoreapp2.1\BookHotel.pdb

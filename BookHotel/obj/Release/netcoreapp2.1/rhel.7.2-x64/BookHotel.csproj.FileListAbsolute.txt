@@ -1,0 +1,11 @@
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\obj\Release\netcoreapp2.1\rhel.7.2-x64\BookHotel.csprojAssemblyReference.cache
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\obj\Release\netcoreapp2.1\rhel.7.2-x64\BookHotel.csproj.CoreCompileInputs.cache
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\obj\Release\netcoreapp2.1\rhel.7.2-x64\BookHotel.AssemblyInfoInputs.cache
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\obj\Release\netcoreapp2.1\rhel.7.2-x64\BookHotel.AssemblyInfo.cs
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\bin\Release\netcoreapp2.1\rhel.7.2-x64\BookHotel.deps.json
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\bin\Release\netcoreapp2.1\rhel.7.2-x64\BookHotel.runtimeconfig.json
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\bin\Release\netcoreapp2.1\rhel.7.2-x64\BookHotel.runtimeconfig.dev.json
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\bin\Release\netcoreapp2.1\rhel.7.2-x64\BookHotel.dll
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\bin\Release\netcoreapp2.1\rhel.7.2-x64\BookHotel.pdb
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\obj\Release\netcoreapp2.1\rhel.7.2-x64\BookHotel.dll
+C:\Users\Mehul\source\repos\BookHotel\BookHotel\obj\Release\netcoreapp2.1\rhel.7.2-x64\BookHotel.pdb
